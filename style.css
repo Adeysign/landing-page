@@ -1,0 +1,68 @@
+* {
+    font-family: 'Roboto', 'Helvetica', sans-serif;
+}
+
+.header, .footer, .sec1 {
+
+    background-color: #1F2937;
+    color: white;
+}
+
+.header h2 {
+    font-weight: 800;
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.header ul {
+    list-style-type: none;
+    color: #E5E7EB;
+    font-size: 18px;
+}
+
+.sec1 h1 {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+}
+
+.sec1 p {
+    color: #E5E7EB;
+    font-size: 18px;
+}
+
+.sec1 button {
+    background-color: #3882F6;
+    border-radius: 8px;
+    color: white;
+}
+
+.sec2 h2 {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+}
+
+.sec3 {
+    background-color: #E5E7EB;
+}
+
+.sec3 .inspo-quote {
+    font-size: 36px;
+    font-weight: lighter;
+}
+
+.sec4 {
+    color: white;
+}
+
+.call-container {
+    background-color: #3882F6;
+}
+
+.call-container button {
+    background-color: #3882F6;
+    color: white;
+    border-radius: 8px;
+    border-color: white;
+}
